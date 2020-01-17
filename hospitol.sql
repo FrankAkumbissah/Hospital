@@ -111,7 +111,7 @@ CREATE TABLE `lvl2_admin` (
 --
 
 INSERT INTO `lvl2_admin` (`lvtwname`, `lvtwusern`, `lvtwemail`, `lvtwpass`, `lvtwid`, `lvtwcdate`) VALUES
-('Jayendra', 'BasicAdmin', 'test@gmail.com', '202cb962ac59075b964b07152d234b70', 1, '2017-10-04');
+('Frank', 'BasicAdmin', 'test@gmail.com', '202cb962ac59075b964b07152d234b70', 1, '2017-10-04');
 
 -- --------------------------------------------------------
 
@@ -200,7 +200,7 @@ CREATE TABLE `sup_admin` (
 --
 
 INSERT INTO `sup_admin` (`sadid`, `sadiun`, `sadipw`, `sadem`, `saname`, `cret_date`) VALUES
-(1, 'superAdmin', '202cb962ac59075b964b07152d234b70', 'jayendramatarage@gmail.com', 'Jayendra', '2017-10-04 22:49:20');
+(1, 'superAdmin', '202cb962ac59075b964b07152d234b70', 'akumbissahfrank@gmail.com', 'Frank', '2017-10-04 22:49:20');
 
 --
 -- Indexes for dumped tables
